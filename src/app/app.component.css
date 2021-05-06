@@ -1,0 +1,16 @@
+#row-right{
+    float: right;
+}
+
+#lupa{
+    vertical-align: text-bottom !important;
+    height: 20px;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  border: 0;
+  border-top: 3px solid rgba(0, 0, 0, 0.187);
+}
